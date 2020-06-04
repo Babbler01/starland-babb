@@ -1,0 +1,77 @@
+*
+{
+	margin: 0;
+	pading: 0;
+	color: #ffffff;
+	text-decoration: none;
+	display: inline-block;
+	background-repeat: none;
+}
+.body 
+{
+	background: url('earth.png');
+	height: 100%;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: none;
+	position: relative;
+	color: #ffffff;
+}
+.wrapper
+{
+	width: 1170px;
+	margin: auto;
+}
+.nav-area
+{
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+.nav-area li 
+{
+	display: inline-block;
+}
+.nav-area li a {
+	color: #ffffff;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-size: 16px;
+}
+.nav-area li a:hover
+{
+    background: #ffffff;
+	color: #333;
+}
+.logo img
+{
+    width: 100px;
+	float: left;
+	height: auto;
+}
+.h1
+{
+	text-align: left;
+	font-size: 40px;
+}
+.p
+{
+	text-align: center;
+	font-size: 40px;
+	text-decoration: none;
+}
+.p a
+{
+    border: 1px solid #ffffff;
+	padding: 10px;
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 14px;
+	margin-top: 20px;
+	display: inline-block;
+}
+p a:hover
+{
+    background: #ffffff;
+	color: #333;
+}
